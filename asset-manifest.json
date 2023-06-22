@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/zstravnickova-web/static/css/main.0b863ded.css",
+    "main.js": "/zstravnickova-web/static/js/main.b849b1c3.js",
+    "index.html": "/zstravnickova-web/index.html",
+    "main.0b863ded.css.map": "/zstravnickova-web/static/css/main.0b863ded.css.map",
+    "main.b849b1c3.js.map": "/zstravnickova-web/static/js/main.b849b1c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b863ded.css",
+    "static/js/main.b849b1c3.js"
+  ]
+}
