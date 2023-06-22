@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/zstravnickova-web/static/css/main.0b863ded.css",
-    "main.js": "/zstravnickova-web/static/js/main.b849b1c3.js",
-    "index.html": "/zstravnickova-web/index.html",
-    "main.0b863ded.css.map": "/zstravnickova-web/static/css/main.0b863ded.css.map",
-    "main.b849b1c3.js.map": "/zstravnickova-web/static/js/main.b849b1c3.js.map"
+    "main.css": "/static/css/main.0b863ded.css",
+    "main.js": "/static/js/main.b849b1c3.js",
+    "index.html": "/index.html",
+    "main.0b863ded.css.map": "/static/css/main.0b863ded.css.map",
+    "main.b849b1c3.js.map": "/static/js/main.b849b1c3.js.map"
   },
   "entrypoints": [
     "static/css/main.0b863ded.css",
