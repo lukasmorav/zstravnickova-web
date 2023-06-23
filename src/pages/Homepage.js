@@ -9,8 +9,10 @@ export default function Homepage() {
     return (
         <div>
             <SiteHeader />
+            <div className='main'>
             <NoticeViewer apiID={"oznamenis"}/>
-            <ArticleShowcase apiID={"dulazita-sdelenis"}/>
+            <ArticleShowcase apiID={"aktualities"}/>
+            </div>
         </div>
     )
 }

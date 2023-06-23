@@ -1,16 +1,18 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import headerImg from '../assets/travnickova-skola.jpg'
 
-export default function SiteHeader() {
+export default function SiteHeader() { 
   return (
     <div className='site-header'>
+      <img src={headerImg} id='header-img'/>
         <h1>ZŠ Trávníčkova</h1>
         <nav>
-            <Link to="/canteen"><h2>Ve škole</h2></Link>
-            <Link to="/"><h2>Pedagogický sbor</h2></Link>
-            <Link to="/"><h2>Úvod</h2></Link>
-            <Link to="/"><h2>Bakaláři</h2></Link>
-            <Link to="/"><h2>Kontakty</h2></Link>
+            <Link to="/canteen">Ve škole</Link>
+            <Link to="/">Jídelna</Link>
+            <Link to="/">Úvod</Link>
+            <Link to="/">Bakaláři</Link>
+            <Link to="/">Kontakty</Link>
         </nav>
     </div>
   )

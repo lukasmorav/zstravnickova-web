@@ -1,19 +1,40 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap');
-
 .site-header {
     text-align: center;
-    padding: 10px;
     font-family: 'Roboto Slab', serif;
     font-weight: 600;
+}
+
+#header-img {
+    position: absolute;
+    top: 5px;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    z-index: -1;
+    max-height: 25vw;
 }
 
 nav {
     display: flex;
     justify-content: space-around;
     background-color: gainsboro;
-    font-weight: 400;
+    border-radius: 50px;
+    padding: 5px;
+    margin: 0 0.5%;
+    opacity: 70%;
 }
 
-nav * {
+nav a {
+    font-weight: 400;
+    border-radius: 50px;
+    padding: 5px;
+    font-size: large;
+    text-decoration: none;
+    color: black;
+    transition: 200ms linear;
+}
 
+nav a:hover {
+    color: aliceblue;
+    background-color: black;
 }
