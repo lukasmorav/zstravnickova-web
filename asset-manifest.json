@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/ztravnickova-web/static/css/main.0b863ded.css",
-    "main.js": "/ztravnickova-web/static/js/main.cea42e93.js",
+    "main.css": "/ztravnickova-web/static/css/main.dc03acfc.css",
+    "main.js": "/ztravnickova-web/static/js/main.8303aba4.js",
+    "static/media/travnickova-skola.jpg": "/ztravnickova-web/static/media/travnickova-skola.074931dd5886358c0682.jpg",
     "index.html": "/ztravnickova-web/index.html",
-    "main.0b863ded.css.map": "/ztravnickova-web/static/css/main.0b863ded.css.map",
-    "main.cea42e93.js.map": "/ztravnickova-web/static/js/main.cea42e93.js.map"
+    "main.dc03acfc.css.map": "/ztravnickova-web/static/css/main.dc03acfc.css.map",
+    "main.8303aba4.js.map": "/ztravnickova-web/static/js/main.8303aba4.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b863ded.css",
-    "static/js/main.cea42e93.js"
+    "static/css/main.dc03acfc.css",
+    "static/js/main.8303aba4.js"
   ]
 }
