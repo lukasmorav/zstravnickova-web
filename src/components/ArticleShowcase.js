@@ -2,7 +2,7 @@ import React from 'react'
 import useFetch from '../hooks/useFetch'
 
 export default function ArticleShowcase(apiID) {
-  const {loading, error, data} = useFetch('http://109.123.194.106:1337/api/' + apiID.apiID)
+  const {loading, error, data} = useFetch('https://test2.zstravnickova.cz:1338/api/' + apiID.apiID)
 
     if (loading) return <p>Načítání...</p>
     if (error || !data) return <p>Chyba v načítání...</p>
